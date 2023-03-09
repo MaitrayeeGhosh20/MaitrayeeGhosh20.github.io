@@ -1,24 +1,24 @@
 # Site navigation links
 - title: Home
-  url: /home/
+  url: /
 
 - title: Research
   url: /research/
 
- - title: Presentations
-   url: /presentations/
+- title: Presentations
+  url: /presentations/
    
 - title: Publications
-   url: /publications/ 
+  url: /publications/ 
    
 - title: Outreach
-   url: /outreach/    
+  url: /outreach/    
    
 - title: News
-   url: /news/   
+  url: /news/   
 
 - title: Resume
   url: /resume/
   
-  - title: Contact
+- title: Contact
   url: /contact/
