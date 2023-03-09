@@ -33,7 +33,7 @@ Bachelor of Science in Chemistry
 IBM-Zerner Graduate Student Award, 60th Sanibel Symposium, University of Florida
 
 `2018 - present`
-Frank J. Horton Scholarship, Laboratory for Laser Energetics, University of Rochester
+Frank J. Horton Fellowship, Laboratory for Laser Energetics, University of Rochester
 
 `2017`
 Sherman-Clarke Scholarship, Department of Chemistry, University of Rochester
