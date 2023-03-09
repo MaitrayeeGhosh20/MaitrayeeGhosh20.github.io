@@ -11,13 +11,21 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2019 - present`
+__University of Rochester__
+PhD Candidate in Chemistry
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2017 - 2019`
+__University of Rochester__
+Master of Science in Chemistry 
+
+`2014 - 2016`
+__Indian Institute of Technology (IIT) Bhubaneswar__
+Master of Science in Chemistry 
+
+`2011 - 2014`
+__University of Calcutta__
+Bachelor of Science in Chemistry 
 
 ## Awards
 
@@ -27,22 +35,6 @@ Name of Award, Organization
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations
