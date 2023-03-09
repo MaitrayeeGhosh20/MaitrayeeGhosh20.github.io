@@ -3,21 +3,14 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
+Hello! I am Maitrayee Ghosh, currently a PhD candidate at the Department of Chemistry and Laboratory for Laser Energetics,
+University of Rochester.
 
-## About this Site
+## About me ...
 
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
+I am a Physical Chemist who specializes in computational modeling of materials. I rigorously use density-functional theory based molecular dynamics simulations to probe materials in extreme conditions. I am looking for post-doctoral position with research interests in materials science, planetary sciences, mineral physics, astrochemistry and astrobiology.
 
 
-## Creating Your Own
+## Outside work ...
 
-To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
-  There you'll find a basic [guide](/blog/getting-started) that will help you
-  create your new site.
-  
+Outside reserach, I love reading books, writing articles, cooking, painting and actively participate in outreach activities. I am from India and always like to celebrate my culture in other parts of the world. 
