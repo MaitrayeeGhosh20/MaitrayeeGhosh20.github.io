@@ -29,8 +29,17 @@ Bachelor of Science in Chemistry
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2020`
+IBM-Zerner Graduate Student Award, 60th Sanibel Symposium, University of Florida
+
+`2018 - present`
+Frank J. Horton Scholarship, Laboratory for Laser Energetics, University of Rochester
+
+`2017`
+Sherman-Clarke Scholarship, Department of Chemistry, University of Rochester
+
+`2011`
+INSPIRE Higher Education Award, Department of Science and Technology, India
 
 ## Publications
 
@@ -45,17 +54,17 @@ Presentation Title, Conference
 
 ## Employment History
 
-`Current`
-__Current Job Title__, Current Employer 
+`2017-present`
+__Graduate Student__, University of Rochester
 
-- Task
-- Task
+- Research assistant
+- Teaching assistant
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2016-2017`
+__Junior Research Fellow__, Indian Association for the Cultivation of Science
 
-- Task
-- Task
+- Intern
+
 
 
 
