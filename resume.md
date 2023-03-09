@@ -3,9 +3,9 @@ title: Resume
 layout: resume
 ---
 
-## Currently
+## Current Position
 
-Current Position Description
+PhD Candidate, Department of Chemistry and Laboratory for Laser Energetics, University of Rochester.
 
 ## Education
 
