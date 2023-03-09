@@ -2,14 +2,23 @@
 - title: Home
   url: /
 
-- title: Contact
-  url: /contact/
+- title: Research
+  url: /research/
 
-# - title: Presentations
-#   url: /presentations/
+ - title: Presentations
+   url: /presentations/
+   
+- title: Publications
+   url: /publications/ 
+   
+- title: Outreach
+   url: /outreach/    
+   
+- title: News
+   url: /news/   
 
 - title: Resume
   url: /resume/
-
-- title: Research
-  url: /research/
+  
+  - title: Contact
+  url: /contact/
