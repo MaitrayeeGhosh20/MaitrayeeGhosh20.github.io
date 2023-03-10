@@ -2,6 +2,9 @@
 - title: Home
   url: /
 
+- title: Resume
+  url: /resume/
+
 - title: Research
   url: /research/
 
@@ -16,9 +19,9 @@
    
 - title: News
   url: /news/   
-
-- title: Resume
-  url: /resume/
   
 - title: Contact
   url: /contact/
+  
+- title: Blog
+  url: /blog/
