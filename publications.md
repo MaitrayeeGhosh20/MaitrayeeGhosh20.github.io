@@ -1,5 +1,7 @@
-layout: presentation-post-index
+---
 title: Publications
+layout: page
+---
 
 `2023`
 M.Ghosh, S.Zhang, L. Hu, S.X. Hu
