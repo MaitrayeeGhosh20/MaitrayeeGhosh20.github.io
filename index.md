@@ -13,4 +13,5 @@ I am a Physical Chemist who specializes in computational modeling of materials. 
 
 ## Outside work ...
 
-Outside reserach, I love reading books, writing articles, cooking, painting and actively participate in outreach activities. I am from India and always like to celebrate my culture in other parts of the world. 
+I am from India, from the eastern state of West Bengal. My supportive family has been my pillars of my success. 
+Beyond research, I love reading books, writing articles, cooking, painting and actively participate in outreach activities. 
