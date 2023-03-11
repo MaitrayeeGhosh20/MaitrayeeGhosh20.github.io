@@ -44,11 +44,6 @@ INSPIRE Higher Education Award, Department of Science and Technology, India
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 
-## Presentations
-
-`1994`
-Presentation Title, Conference
-
 
 ## Employment History
 
