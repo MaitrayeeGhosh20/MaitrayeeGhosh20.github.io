@@ -3,20 +3,20 @@ layout: post-index
 title: Research
 ---
 
-### Materials Under Extreme Conditions
+# Materials Under Extreme Conditions
 
 This is HEDP in PhD
 
-## Cooperative diffusion in bcc iron:
+- __Cooperative diffusion in bcc iron:__
 
-## Transport properties of aluminum oxide:
+- __Transport properties of aluminum oxide:__
 
-## Diamond formation from hydrocarbons:
+- __Diamond formation from hydrocarbons:__
 
-### 2-dimensional materials
+# 2-dimensional materials
 
 Studying pseudo Jahn Teller effect
 
-### Electronic transitions using semi-classical dynamics
+# Electronic transitions using semi-classical dynamics
 
 MS Thesis
