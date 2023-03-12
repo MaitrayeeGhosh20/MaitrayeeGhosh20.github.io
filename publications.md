@@ -4,7 +4,7 @@ layout: page
 ---
 
 `2023`
-- Maitrayee Ghosh, Shuai Zhang, Lianming Hu, S.X. Hu, "Cooperative diffusion in body-centered cubic iron in Earth and super-Earths' inner core conditions",Journal of Physics Condensed Matter 35(15),(2023). [Link to article](https://iopscience.iop.org/article/10.1088/1361-648X/acba71)
+- Maitrayee Ghosh, Shuai Zhang, Lianming Hu, S.X. Hu, "Cooperative diffusion in body-centered cubic iron in Earth and super-Earths' inner core conditions",Journal of Physics Condensed Matter 35(15),(2023). __[Link to article]__(https://iopscience.iop.org/article/10.1088/1361-648X/acba71)
 <!-- A list is also available [online](https://iopscience.iop.org/article/10.1088/1361-648X/acba71) -->
 
 `2022`
