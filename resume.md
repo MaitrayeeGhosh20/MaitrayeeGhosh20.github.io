@@ -39,11 +39,6 @@ Sherman-Clarke Scholarship, Department of Chemistry, University of Rochester
 `2011`
 INSPIRE Higher Education Award, Department of Science and Technology, India
 
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-
 
 ## Employment History
 
