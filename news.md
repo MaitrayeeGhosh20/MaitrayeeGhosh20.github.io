@@ -3,7 +3,7 @@ title: News and Highlights
 layout: page
 ---
 `2023`
-- We just published our recent paper on the cooperative diffusion in body-centered cubic iron! Check out the link here: 
+- We just published our recent paper on the cooperative diffusion in body-centered cubic iron! 
 
 `2022`
 - I presented an Oral talk at the American Geophysical Union (AGU) Fall Meeting at Chicago, Illinois!
@@ -13,7 +13,7 @@ layout: page
 
 `2021`
 
-- Presented an online poster at the \AGU Fall Meeting 2021\. 
+- Presented an online poster at the AGU Fall Meeting 2021. 
 - Covid waves continued to adversely affect life :( 
 
 `2020`
