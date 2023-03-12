@@ -13,7 +13,7 @@ layout: page
 
 `2021`
 
-- Presented an online poster at the AGU Fall Meeting 2021. 
+- Presented an online poster at the \AGU Fall Meeting 2021\. 
 - Covid waves continued to adversely affect life :( 
 
 `2020`
