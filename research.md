@@ -1,6 +1,6 @@
 ---
-layout: post-index
 title: Research
+layout: page
 ---
 
 # Materials Under Extreme Conditions
