@@ -3,17 +3,20 @@ layout: post-index
 title: Research
 ---
 
-High energy density physics 
+### Materials Under Extreme Conditions
 
-<!-- # COMMENT EXPLAINING THIS PAGE -- 
-We're currently using this section of the site to host these tutorials,
-  but you might want to use it to showcase and describe your `Research`,
-  to chronicle various `Talks` you've given over your history, or to
-  write about various news or updates that have happened to you.
+This is HEDP in PhD
 
-You can update the `title` of file (line 3) to change the heading of 
-  the page and its title in the browser. To change how it's referred to
-  in the navigation and/or adjust its url, see `data/navigation.yml` file.
--->
+## Cooperative diffusion in bcc iron:
 
+## Transport properties of aluminum oxide:
 
+## Diamond formation from hydrocarbons:
+
+### 2-dimensional materials
+
+Studying pseudo Jahn Teller effect
+
+### Electronic transitions using semi-classical dynamics
+
+MS Thesis
