@@ -21,3 +21,4 @@ layout: page
   - __Maitrayee Ghosh__, S.X. Hu, Terry-Ann Suer, Shuai Zhang, "Transport properties of alumina in extreme conditions" 
   - __Maitrayee Ghosh__, Shuai Zhang, S.X. Hu, "Diamond formation from hydrocarbons"
   - Ke Wang, Benjamin Ecker, __Maitrayee Ghosh__, Valentin V. Karaseiv, S.X. Hu, Jinsong Huang, Yongli Gao, "Light enhanced oxygen degradation of MAPbBr3 single crystal" (to be submitted)
+  - D.A. Chin, P.M. Nilson, J.J. Ruby, M. Signor, G. Bunker, D.T. Bishel, E.A. Smith, __M. Ghosh__, F. Coppari, Y. Ping, J.R. Rygg and G.W. Collins, "Extended x-ray absorption fine structure cumulant expansion at high-energy-density conditions" (to be submitted)
