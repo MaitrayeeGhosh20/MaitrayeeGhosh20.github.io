@@ -5,7 +5,7 @@ layout: page
 
 Here are some life updates and pictures!
 
-<img src="https://github.com/MaitrayeeGhosh20/MaitrayeeGhosh20.github.io/blob/master/images/454035E0-ECF2-4BD6-BD89-66AF2D164E12.jpeg" style="display: block; margin: auto;" />
+![Award picture](images/454035E0-ECF2-4BD6-BD89-66AF2D164E12.jpeg)
 
 
 Another test picture: Check:
@@ -14,3 +14,5 @@ Another test picture: Check:
 
 Adding using assets directory: Try. this again:
 ![Plant picture](assets/MaitrayeeGhosh_Plant.png) 
+
+
