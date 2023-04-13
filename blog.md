@@ -15,5 +15,5 @@ Another test picture: Check:
 Adding using assets directory: Try. this again:
 ![Plant picture](assets/MaitrayeeGhosh_Plant.png) 
 
-Adding a pdf:
+Adding a pdf: checking again
 ![CV](assets/document-2.pdf)
