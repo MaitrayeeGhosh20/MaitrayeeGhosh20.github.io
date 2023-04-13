@@ -13,4 +13,4 @@ Another test picture:
 <img src="https://github.com/MaitrayeeGhosh20/MaitrayeeGhosh20.github.io/blob/master/images/wallpaper-mania.com_High_resolution_wallpaper_background_ID_77701928549.jpg" style="display: block; margin: auto;" />
 
 Adding using assets directory:
-![Plant picture](MaitrayeeGhosh20.github.io/assets/MaitrayeeGhosh_Plant.png)
+![Plant picture](MaitrayeeGhosh20.github.io/assets/MaitrayeeGhosh_Plant.png) 
