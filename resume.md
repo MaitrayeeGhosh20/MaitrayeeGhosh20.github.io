@@ -29,7 +29,7 @@ Bachelor of Science in Chemistry -->
 
 ## Awards
 
-`2020`
+<!--`2020`
 IBM-Zerner Graduate Student Award, 60th Sanibel Symposium, University of Florida
 
 `2018 - present`
@@ -39,7 +39,7 @@ Frank J. Horton Fellowship, Laboratory for Laser Energetics, University of Roche
 Sherman-Clarke Scholarship, Department of Chemistry, University of Rochester
 
 `2011`
-INSPIRE Higher Education Award, Department of Science and Technology, India
+INSPIRE Higher Education Award, Department of Science and Technology, India -->
 
 ![Awards](images/Screen Shot 2023-04-14 at 10.04.03 AM.png)
 
