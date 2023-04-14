@@ -41,6 +41,8 @@ Sherman-Clarke Scholarship, Department of Chemistry, University of Rochester
 `2011`
 INSPIRE Higher Education Award, Department of Science and Technology, India
 
+![Awards](images/Screen Shot 2023-04-13 at 11.46.40 PM.png)
+
 
 ## Employment History
 
@@ -54,6 +56,8 @@ __Graduate Student__, University of Rochester
 __Junior Research Fellow__, Indian Association for the Cultivation of Science
 
 - Intern
+
+
 
 
 
