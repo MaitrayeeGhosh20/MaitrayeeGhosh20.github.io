@@ -46,7 +46,7 @@ INSPIRE Higher Education Award, Department of Science and Technology, India -->
 
 ## Employment History
 
-`2017-present`
+<!--`2017-present`
 __Graduate Student__, University of Rochester
 
 - Research assistant
@@ -55,7 +55,7 @@ __Graduate Student__, University of Rochester
 `2016-2017`
 __Junior Research Fellow__, Indian Association for the Cultivation of Science
 
-- Intern
+- Intern -->
 
 ![Experience](images/Screen Shot 2023-04-13 at 11.37.16 PM.png)
 
