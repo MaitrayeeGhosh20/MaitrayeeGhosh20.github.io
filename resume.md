@@ -25,7 +25,7 @@ Master of Science in Chemistry
 __University of Calcutta__
 Bachelor of Science in Chemistry 
 
-![Education log](images/Screen Shot 2023-04-14 at 10.17.55 AM.png)
+![Education log](images/Screen Shot 2023-04-14 at 10.29.41 AM.png)
 
 ## Awards
 
