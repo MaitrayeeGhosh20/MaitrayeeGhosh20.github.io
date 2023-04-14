@@ -9,7 +9,7 @@ PhD Candidate, Department of Chemistry and Laboratory for Laser Energetics, Univ
 
 ## Education
 
-`2019 - present`
+<!--`2019 - present`
 __University of Rochester__
 PhD Candidate in Chemistry
 
@@ -23,7 +23,7 @@ Master of Science in Chemistry
 
 `2011 - 2014`
 __University of Calcutta__
-Bachelor of Science in Chemistry 
+Bachelor of Science in Chemistry -->
 
 ![Education log](images/Screen Shot 2023-04-14 at 10.29.41 AM.png)
 
