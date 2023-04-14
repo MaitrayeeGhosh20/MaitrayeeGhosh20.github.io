@@ -25,7 +25,7 @@ Master of Science in Chemistry
 __University of Calcutta__
 Bachelor of Science in Chemistry 
 
-![URoc log](images\University_of_Rochester-1506763013.png) | ![IIT BBS logo](images\IIT-Bhubaneswar-2853865735.jpeg)
+![URoc log](images/University_of_Rochester-1506763013.png) | ![IIT BBS logo](images/IIT-Bhubaneswar-2853865735.jpeg)
 
 ## Awards
 
