@@ -57,7 +57,7 @@ __Junior Research Fellow__, Indian Association for the Cultivation of Science
 
 - Intern
 
-
+![Experience](images/Screen Shot 2023-04-13 at 11.37.16 PM.png)
 
 
 
