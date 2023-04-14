@@ -1,6 +1,6 @@
 
 # Site wide configuration
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 title: Maitrayee Ghosh
 locale: en_US
 logo:  # logo.png # filename of a logo image that has been placed into your images directory
@@ -40,7 +40,7 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname: #username
-  resume: #link to pdf 
+  resume: https://drive.google.com/file/d/1TaVvb9IRmN6p108ckPsK_95vQFhB6Vf2/view?usp=sharing #link to pdf 
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
