@@ -3,6 +3,10 @@ title: Publications
 layout: page
 ---
 
+`2024`
+  - D.A. Chin, P.M. Nilson, J.J. Ruby, M. Signor, G. Bunker, D.T. Bishel, E.A. Smith, __M. Ghosh__, F. Coppari, Y. Ping, J.R. Rygg and G.W. Collins, "Extended x-ray absorption fine structure cumulant expansion at high-energy-density conditions", Phys. Plasmas \textbf{31}, 042708 (2024).[Link to article](https://pubs.aip.org/aip/pop/article/31/4/042708/3283125/Parametrized-ion-distribution-model-for-extended-x)
+  - Ke Wang, Benjamin Ecker, __Maitrayee Ghosh__, Valentin V. Karaseiv, S.X. Hu, Jinsong Huang, Yongli Gao, "Light enhanced oxygen degradation of MAPbBr3 single crystal", Phys. Chem. Chem. Phys, 26, 5027-5037(2024). [Link to article](https://pubs.rsc.org/en/content/articlehtml/2024/cp/d3cp03493c?page=search)
+
 `2023`
 - __Maitrayee Ghosh__, Shuai Zhang, Lianming Hu, S.X. Hu, "Cooperative diffusion in body-centered cubic iron in Earth and super-Earths' inner core conditions",Journal of Physics Condensed Matter 35(15),(2023). [Link to article](https://iopscience.iop.org/article/10.1088/1361-648X/acba71)
 <!-- A list is also available [online](https://iopscience.iop.org/article/10.1088/1361-648X/acba71) -->
@@ -20,5 +24,4 @@ layout: page
 - Manuscripts under preparation
   - __Maitrayee Ghosh__, S.X. Hu, Terry-Ann Suer, Shuai Zhang, "Transport properties of alumina in extreme conditions" 
   - __Maitrayee Ghosh__, Shuai Zhang, S.X. Hu, "Diamond formation from hydrocarbons"
-  - Ke Wang, Benjamin Ecker, __Maitrayee Ghosh__, Valentin V. Karaseiv, S.X. Hu, Jinsong Huang, Yongli Gao, "Light enhanced oxygen degradation of MAPbBr3 single crystal" (to be submitted)
-  - D.A. Chin, P.M. Nilson, J.J. Ruby, M. Signor, G. Bunker, D.T. Bishel, E.A. Smith, __M. Ghosh__, F. Coppari, Y. Ping, J.R. Rygg and G.W. Collins, "Extended x-ray absorption fine structure cumulant expansion at high-energy-density conditions" (to be submitted)
+  
